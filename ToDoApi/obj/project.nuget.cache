@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s1Tz3Am9VYI=",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\1. ToDo API\\ToDoApi\\ToDoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\speke\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\speke\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
